@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702970860 source:d:\codehandmake\luyentaplai\sumcacchunguyento\main.c
+	<stdio.h>
+	<stdlib.h>
+

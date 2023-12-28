@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702547407 source:d:\codehandmake\luyentaplai\inputgaiform\main.c
+	<stdio.h>
+	<stdlib.h>
+

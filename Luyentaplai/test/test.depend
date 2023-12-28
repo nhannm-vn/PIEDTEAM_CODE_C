@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703058139 source:d:\codehandmake\luyentaplai\test\main.c
+	<stdio.h>
+	<stdlib.h>
+

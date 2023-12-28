@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702482283 source:d:\codehandmake\24-inputrightform\main.c
+	<stdio.h>
+	<stdlib.h>
+

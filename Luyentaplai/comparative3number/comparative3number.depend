@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702913286 source:d:\codehandmake\luyentaplai\comparative3number\main.c
+	<stdio.h>
+	<stdlib.h>
+

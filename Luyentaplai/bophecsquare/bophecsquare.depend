@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702894226 source:d:\codehandmake\luyentaplai\bophecsquare\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702977059 source:d:\codehandmake\luyentaplai\elementmax\main.c
+	<stdio.h>
+	<stdlib.h>
+

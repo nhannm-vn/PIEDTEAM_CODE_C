@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702551099 source:d:\codehandmake\luyentaplai\quaraticequator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702916040 source:d:\codehandmake\luyentaplai\induc1\main.c
+	<stdio.h>
+	<stdlib.h>
+

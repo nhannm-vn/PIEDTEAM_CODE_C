@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702813620 source:d:\codehandmake\luyentaplai\phibooxi\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703598028 source:d:\codehandmake\codexaihamtuviet\codexaihamcodeblock\3-factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

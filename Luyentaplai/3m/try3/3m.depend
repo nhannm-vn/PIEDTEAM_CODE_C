@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703172787 source:d:\codehandmake\luyentaplai\3m\try3\main.c
+	<stdio.h>
+	<stdlib.h>
+

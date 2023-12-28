@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702916864 source:d:\codehandmake\luyentaplai\checknumberngto\main.c
+	<stdio.h>
+	<stdlib.h>
+

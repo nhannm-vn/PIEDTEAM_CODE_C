@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703077223 source:d:\codehandmake\39-mulevenodd\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703160178 source:d:\codehandmake\luyentaplai\summprimer\main.c
+	<stdio.h>
+	<stdlib.h>
+

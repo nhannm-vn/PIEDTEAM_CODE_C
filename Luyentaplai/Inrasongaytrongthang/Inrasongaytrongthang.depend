@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702371241 source:d:\codehandmake\luyentaplai\inrasongaytrongthang\main.c
+	<stdio.h>
+	<stdlib.h>
+
