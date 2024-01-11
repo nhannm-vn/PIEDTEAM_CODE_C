@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704993110 source:d:\codehandmake\66-sidemininarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
