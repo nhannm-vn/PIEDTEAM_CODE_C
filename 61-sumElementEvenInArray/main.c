@@ -2,6 +2,7 @@
 #include <stdlib.h>
 //Tính tổng các phần tử có giá trị là chẵn
 void inputArray(int array[], int *size);
+void outputArray(int array[], int size);
 int sumEven(int array[], int size);
 int main()
 {
@@ -9,7 +10,7 @@ int main()
     int sizeMain = 0;
 
     inputArray(arrMain, &sizeMain);
-
+    outputArray(arrMain, sizeMain);
     printf("\nTong: %d", sumEven(arrMain, sizeMain));
     return 0;
 }
@@ -19,6 +20,13 @@ void inputArray(int array[], int *size){
     for(int i = 0; i <= *size - 1; i++){
         printf("\narray[%d]: ", i);
         scanf("%d", &array[i]);
+    }
+}
+void outputArray(int array[], int size){
+    printf("\nCac phan tu trong mang: ");
+    for(int i = 0; i <= size - 1; i++){
+        printf("\narray[%d]: ", i);
+        printf("%d", array[i]);
     }
 }
 int sumEven(int array[], int size){

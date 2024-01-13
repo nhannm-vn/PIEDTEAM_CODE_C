@@ -3,6 +3,7 @@
 //Tìm số lớn nhất trong mảng
 const int MAX = 100;
 void inputArray(int array[], int *size);
+void outputArray(int array[], int size);
 void maxElement(int array[], int size);
 int main()
 {
@@ -10,6 +11,7 @@ int main()
     int sizeMain = 0;
 
     inputArray(arrMain, &sizeMain);
+    outputArray(arrMain, sizeMain);
     maxElement(arrMain, sizeMain);
     return 0;
 }
@@ -29,4 +31,11 @@ void maxElement(int array[], int size){
         }
     }
     printf("\nmax: %d", max);
+}
+void outputArray(int array[], int size){
+    printf("\nCac phan tu la: ");
+    for(int i = 0; i <= size - 1; i++){
+        printf("\narray[%d]: ", i);
+        printf("%d", array[i]);
+    }
 }

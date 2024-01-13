@@ -2,6 +2,7 @@
 #include <stdlib.h>
 //Tính tổng các phân tử là số nguyên tố trong mảng
 void inputArray(int array[], int *size);
+void outputArray(int array[], int size);
 int sumElementPrime(int array[], int size);
 int main()
 {
@@ -9,7 +10,9 @@ int main()
     int sizeMain = 0;
 
     inputArray(arrMain, &sizeMain);
+    outputArray(arrMain, sizeMain);
     printf("\nTong cac so nguyen to: %d", sumElementPrime(arrMain, sizeMain));
+
 
     return 0;
 }
@@ -38,4 +41,11 @@ int sumElementPrime(int array[], int size){
         }
     }
     return sum;
+}
+void outputArray(int array[], int size){
+    printf("\nCac phan tu trong mang: ");
+    for(int i = 0; i <= size - 1; i++){
+        printf("\narray[%d]: ", i);
+        printf("%d", array[i]);
+    }
 }
