@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706097751 source:d:\codehandmake\87-findarrayinarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
