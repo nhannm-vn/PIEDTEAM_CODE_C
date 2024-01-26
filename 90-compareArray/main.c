@@ -38,7 +38,14 @@ int main()
     return 0;
 }
 int compareArray(int arr1[], int size1, int arr2[], int size2){
-    for(int i = 0; i <= size1 - 1; i++){//so sánh giá tri của từng cặp trước
+    //phải lấy mảng nhỏ đi so sánh nếu k sẽ so sánh với rác
+    int size;
+    if(size1 > size2){
+        size = size1;
+    }else{
+        size = size2;
+    }
+    for(int i = 0; i <= size - 1; i++){//so sánh giá tri của từng cặp trước
         if(arr1[i] > arr2[i]){
             return 1;
         }else if(arr1[i] < arr2[i]){
