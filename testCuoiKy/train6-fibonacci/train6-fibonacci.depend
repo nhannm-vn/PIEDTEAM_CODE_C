@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707183451 source:d:\codehandmake\testcuoiky\train6-fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
