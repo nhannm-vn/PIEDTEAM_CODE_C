@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707186247 source:d:\codehandmake\testcuoiky\train10-tbmul\main.c
+	<stdio.h>
+	<stdlib.h>
+
