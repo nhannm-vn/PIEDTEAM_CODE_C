@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707188775 source:d:\codehandmake\testcuoiky\train13-mulevenodd\main.c
+	<stdio.h>
+	<stdlib.h>
+

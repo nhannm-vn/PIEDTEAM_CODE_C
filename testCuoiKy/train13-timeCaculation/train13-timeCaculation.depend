@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707188292 source:d:\codehandmake\testcuoiky\train13-timecaculation\main.c
+	<stdio.h>
+	<stdlib.h>
+
