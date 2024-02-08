@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707189869 source:d:\codehandmake\testcuoiky\train16-inductiveatan\main.c
+	<stdio.h>
+	<stdlib.h>
+
