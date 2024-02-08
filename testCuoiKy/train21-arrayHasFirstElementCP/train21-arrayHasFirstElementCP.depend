@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707270184 source:d:\codehandmake\testcuoiky\train21-arrayhasfirstelementcp\main.c
+	<stdio.h>
+	<stdlib.h>
+

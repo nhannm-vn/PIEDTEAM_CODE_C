@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707202202 source:d:\codehandmake\testcuoiky\train20-sumarrayelementeven\main.c
+	<stdio.h>
+	<stdlib.h>
+
