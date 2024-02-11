@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707353983 source:d:\codehandmake\testcuoiky\train32-checkanna\main.c
+	<stdio.h>
+	<stdlib.h>
+
