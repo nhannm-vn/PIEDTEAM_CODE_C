@@ -60,7 +60,6 @@ int removeDuplicate(int array[], int *size){
             array[*size] = arrTmp[i];
             (*size)++;
         }
-        return 1;
     }
 }
 void outputArray(int array[], int size){
