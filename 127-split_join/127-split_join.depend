@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709480512 source:d:\piedteam_code_c\127-split_join\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
